@@ -1,0 +1,8 @@
+name: SolarEnchants
+version: 1.0
+api-version: 1.16
+main: com.solarenchants.main.SolarEnchants
+author: Unfairbody96
+commands:
+  solar:
+    description: Base main command
